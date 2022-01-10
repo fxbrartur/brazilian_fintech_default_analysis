@@ -1,6 +1,6 @@
 # Brazilian Fintech Default Analysis
 
-For this Analysis, I used an Ubuntu OS. If you are willing to run it on your pc, please make sure that you have installed the python and the following libraries (commands considering my Linux Distro, please confirm the correct code for your OS):
+For this Analysis, I used an Ubuntu OS. If you are willing to run it on your pc, please make sure that you have installed the python and the following libraries (commands considering my Linux Distro, please confirm the correct commands for your OS):
 
 ```bash
 sudo yum update -y
