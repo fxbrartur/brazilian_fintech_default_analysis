@@ -11,4 +11,4 @@ sudo yum install matplotlib
 sudo yum install seaborn
 ```
 
-After installing Python and every necessary package, let's advance to the Analysis archive.
+After installing Python and every necessary package, let's advance to the Analysis archive: brazilian-fintech-default-analysis.ipynb
